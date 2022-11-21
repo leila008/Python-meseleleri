@@ -1,4 +1,4 @@
-eded=int(input("Neceye qederki asal ededleri tapmaq isteyirsiniz?:"))
+eded=int(input("Neceye qederki sade ededleri tapmaq isteyirsiniz?:"))
 sade=[]
 for i in range(2,eded):
     for j in range(2,i):
